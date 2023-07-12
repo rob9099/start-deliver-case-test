@@ -1,0 +1,17 @@
+.customer-container{
+  display: flex;
+  flex-direction: column;
+  width: 65%;
+  height: 100%;
+}
+
+table {
+  border-bottom: solid #a4aabd 3px;
+  width: 100%;
+}
+
+th {
+  text-align: start;
+  color: #a4aabd;
+  font-size: 15px;
+}

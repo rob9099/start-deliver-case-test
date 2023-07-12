@@ -1,0 +1,26 @@
+.home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  height: 100%;
+  width: 65%;
+}
+
+.data-titles,
+.data-stats {
+  display: flex;
+}
+
+.data-titles p {
+  color: #a4aabd;
+}
+
+.data-titles p,
+.data-stats p {
+  width: 50%;
+}
+
+.data-stats p {
+  font-size: 50px;
+  margin-top: 0;
+}
